@@ -1,0 +1,44 @@
+# FitStreak - Gamified Bodyweight Workout App
+
+> FitStreak is a free iOS app that uses daily streaks, XP, leveling, and achievements to turn 5-minute bodyweight workouts into an unbreakable fitness habit. No equipment needed.
+
+FitStreak applies the same gamification psychology as Duolingo to fitness. Users build daily workout streaks, earn XP for every session, level up over time, and unlock 20+ achievements. The app offers guided bodyweight workouts (full body, upper body, lower body, core, cardio, stretching) from beginner to advanced, starting at just 5 minutes.
+
+## Key Features
+
+- Daily workout streaks with accountability (miss a day, lose your streak)
+- XP and leveling system that rewards every workout
+- 20+ unlockable achievements for milestones
+- 5-minute guided bodyweight workouts, no equipment needed
+- Beginner to advanced difficulty levels
+- Streak shield protection for rest days (premium)
+- Activity heatmap to visualize consistency
+- Apple Health integration (automatic sync)
+- Home screen widget
+- Cloud sync with Sign in with Apple
+- Works fully offline
+
+## Pricing
+
+- Free to download and use
+- Premium Monthly: $4.99/month (3-day free trial)
+- Premium Yearly: $29.99/year (3-day free trial, save 50%)
+
+## Links
+
+- App Store: https://apps.apple.com/app/fitstreak-daily-workouts/id6759306186
+- Website: https://isi1314.github.io/fitstreak-legal/
+- Privacy Policy: https://isi1314.github.io/fitstreak-legal/privacy.html
+- Terms of Use: https://isi1314.github.io/fitstreak-legal/terms.html
+- Contact: isidora.tourni@hotmail.com
+
+## Who Is FitStreak For?
+
+FitStreak is designed for people who have tried other fitness apps and quit. People who start every Monday and give up by Thursday. The streak mechanic creates just enough accountability to keep you showing up, and the gamification makes every session feel rewarding.
+
+## Technical Details
+
+- Platform: iOS (iPhone)
+- Category: Health & Fitness
+- Developer: Isidora Tourni
+- Requires: iOS 16.0 or later
