@@ -22,8 +22,15 @@
   </style>
 </head>
 <body>
-  <h1>FitStreak — Privacy Policy</h1>
-  <p class="updated">Last updated: February 2026</p>
+  <h1>FitStreak &mdash; Privacy Policy</h1>
+  <p class="updated">Last updated: August 2026</p>
+
+  <!--
+    Kept in sync BY HAND with app/privacy.tsx, which is the version users actually read
+    in the app. They drifted badly once: as of 2026-08-26 this file still said HealthKit
+    was "write-only, no health data is read" and that "we do not use analytics tracking",
+    six months after both stopped being true. If you change one, change the other.
+  -->
 
   <h2>1. Information We Collect</h2>
   <p>FitStreak stores your workout data, preferences, and profile information locally on your device. If you sign in with Apple, we also store your data on our cloud servers to enable cross-device sync.</p>
@@ -34,8 +41,13 @@
     <li>Fitness goals and level preferences</li>
     <li>App settings (reminders, sound, haptics)</li>
     <li>Achievement progress and XP</li>
+    <li>Food and nutrition entries you log (item names, calories, and macros)</li>
+    <li>Body weight readings you enter or import from Apple Health, and the daily water count you log</li>
+    <li>Progress photos you choose to add. These never leave your device: they are not uploaded, not included in cloud sync, and not visible to anyone else. Deleting the app, resetting your progress, or deleting your account removes them permanently</li>
     <li>Apple Sign-In user ID (if signed in)</li>
+    <li>Your email address, or the private relay address Apple provides if you choose Hide My Email (if signed in)</li>
   </ul>
+  <p>If you use the meal photo scanner, the photo you choose is sent to our AI provider to estimate the food and its nutrition. We do not store the photo: only the resulting item names, calories, and macros are saved to your food log. If you use the AI workout or program generator, the preferences you pick (duration, focus, difficulty, and available equipment) are sent to the same provider. Neither feature sends your name, email, or account ID.</p>
 
   <h2>2. How We Use Your Information</h2>
   <p>All data is used solely to provide you with a personalized fitness experience. Your workout history powers streak tracking, XP calculations, and achievement unlocks. If you sign in with Apple, your data is synced to our servers so you can access it across devices.</p>
@@ -46,22 +58,35 @@
   <h2>4. Third-Party Services</h2>
   <p>We use the following third-party services:</p>
   <ul>
-    <li><strong>Supabase</strong> — Cloud database and authentication (only if you sign in with Apple)</li>
-    <li><strong>RevenueCat</strong> — Subscription management (uses an anonymous ID; linked to your account if signed in)</li>
-    <li><strong>Apple HealthKit</strong> — Write-only; we save completed workouts to Apple Health if you enable it. No health data is read.</li>
+    <li><strong>Supabase</strong> &mdash; Cloud database and authentication (only if you sign in with Apple)</li>
+    <li><strong>RevenueCat</strong> &mdash; Subscription management (uses an anonymous ID; linked to your account if signed in)</li>
+    <li><strong>Apple HealthKit</strong> &mdash; If you enable it, we save your completed workouts to Apple Health, and we can read two things at your request: workouts logged by other apps, so you can import them, and your most recent body weight, only when you tap to import it. We write body weight back to Apple Health only if you turn on the separate &ldquo;Write weight to Health&rdquo; setting, which is off unless you turn it on, and even then only weights you typed yourself are written, never a value we imported or estimated. Nothing read from Health leaves your device except through the same cloud sync as the rest of your data if you are signed in.</li>
+    <li><strong>Rork AI Toolkit (Google Gemini)</strong> &mdash; Powers the meal photo scanner and the AI workout/program generator. It receives the meal photo or the workout preferences you submit, and returns the analysis. It is only contacted when you actively use one of those features.</li>
+    <li><strong>Sentry</strong> &mdash; Crash and error reporting. If the app crashes or hits an error, Sentry receives the error details, a stack trace, and your device model and OS version so we can fix the problem. It is not configured to attach your name, email, or account ID.</li>
+    <li><strong>Google Analytics for Firebase</strong> &mdash; Product analytics. We log a small set of app-usage events (for example: sign-up, workout started/completed, streak milestones reached, paywall viewed, purchase completed) so we can understand how the app is used and improve it. These events include only IDs, counts, and category or plan labels, never your name, email, or account ID.</li>
   </ul>
-  <p>We do not use analytics tracking, advertising networks, or data brokers. Payment processing is handled entirely by Apple through the App Store.</p>
+  <p>We do not use advertising networks or data brokers, and we do not track you across other companies' apps or websites. Payment processing is handled entirely by Apple through the App Store.</p>
 
-  <h2>5. Children's Privacy</h2>
+  <h2>5. What Other Users Can See</h2>
+  <p>Your profile is private by default. Nothing you do is visible to other users unless you turn on Public Profile in Profile &gt; Settings.</p>
+  <p>While Public Profile is on, other signed-in users can see your display name, avatar (including any equipped avatar frame), level, XP, current streak, and any commitment challenge you currently have active, on the leaderboard, in the weekly league, in your friends list, and in friend search results. Your workout history, food log, personal details, and settings are never shared. Turning Public Profile back off removes you from the leaderboard and from search.</p>
+  <p>Once someone becomes your friend (accepted request), they can see those same profile stats even if you later turn Public Profile off. A pending, not-yet-accepted request also shows those stats to the other person, but only while your profile is public.</p>
+  <p>If you and a friend agree to be streak buddies, each of you can see whether the other has completed a workout on a given day, and the shared streak that builds from it. Neither of you sees the other's workouts, food log, or body measurements. Either of you can end it at any time from the Friends tab.</p>
+
+  <h2>6. Children's Privacy</h2>
   <p>FitStreak is not directed at children under 13. We do not knowingly collect information from children under 13 years of age.</p>
 
-  <h2>6. Data Deletion</h2>
+  <h2>7. Data Deletion</h2>
   <p>If you are not signed in, you can delete all local data by uninstalling the app. If you are signed in with Apple, you can delete your account and all server-side data from Profile &gt; Delete Account. This permanently removes your data from our servers and cannot be undone.</p>
+  <p>You can also take a copy of everything the app holds about you at any time, signed in or not, from Profile &gt; Export my data. The export is a JSON file built on your device and shared wherever you choose; it is not uploaded anywhere.</p>
 
-  <h2>7. Changes to This Policy</h2>
+  <h2>8. Marketing Communications</h2>
+  <p>If you sign in with Apple, we may occasionally email you about product updates, new features, or special offers, using the email (or private relay) address Apple provides. You can unsubscribe at any time using the link in any marketing email, or by contacting us at <a href="mailto:isidora.tourni@hotmail.com">isidora.tourni@hotmail.com</a>. This does not affect account-related emails from Apple itself, which we do not control.</p>
+
+  <h2>9. Changes to This Policy</h2>
   <p>We may update this privacy policy from time to time. Any changes will be reflected in the app and on this page with an updated revision date.</p>
 
-  <h2>8. Contact Us</h2>
+  <h2>10. Contact Us</h2>
   <p>If you have any questions about this privacy policy, please contact us at <a href="mailto:isidora.tourni@hotmail.com">isidora.tourni@hotmail.com</a>.</p>
 </body>
 </html>
