@@ -21,8 +21,7 @@ FitStreak applies the same gamification psychology as Duolingo to fitness. Users
 ## Pricing
 
 - Free to download and use
-- Premium Monthly: $4.99/month (3-day free trial)
-- Premium Yearly: $29.99/year (3-day free trial, save 50%)
+- Premium: optional weekly, monthly or yearly subscription with a 3-day free trial where offered; current prices are shown in the App Store
 
 ## Links
 
@@ -30,7 +29,7 @@ FitStreak applies the same gamification psychology as Duolingo to fitness. Users
 - Website: https://isi1314.github.io/fitstreak-legal/
 - Privacy Policy: https://isi1314.github.io/fitstreak-legal/privacy.html
 - Terms of Use: https://isi1314.github.io/fitstreak-legal/terms.html
-- Contact: isidora.tourni@hotmail.com
+- Contact: fitstreak.app@outlook.com
 
 ## Who Is FitStreak For?
 
@@ -40,5 +39,5 @@ FitStreak is designed for people who have tried other fitness apps and quit. Peo
 
 - Platform: iOS (iPhone)
 - Category: Health & Fitness
-- Developer: Isidora Tourni
+- Developer: FitStreak
 - Requires: iOS 16.0 or later
