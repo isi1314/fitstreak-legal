@@ -1,6 +1,8 @@
 # FitStreak
 
-> FitStreak is an iPhone app with a gym pet that grows with every workout and texts you when your streak is at risk. Workouts start at 5 minutes, need no equipment, and include seated chair routines for beginners. Free to start.
+> FitStreak is an iPhone workout app with 5-minute daily routines, including seated chair workouts, for beginners and older adults, with a streak and a fox companion that grows as you train. Free to start, no equipment needed.
+
+Your companion (Foxfire the fox is one of 8) sends your reminders in its own voice when your streak is at risk.
 
 Facts checked on 2026-10-16:
 
@@ -16,7 +18,7 @@ Facts checked on 2026-10-16:
 
 ## Home
 
-- [FitStreak: the gym pet that texts you about your streak](https://isi1314.github.io/fitstreak-legal/index.md): A workout streak app for people who have started and stopped before. A companion that grows with every workout, 5-minute workouts, and chair routines. Free on iPhone.
+- [FitStreak: the gym pet that texts you about your streak](https://isi1314.github.io/fitstreak-legal/index.md): FitStreak is an iPhone workout app with 5-minute daily routines, including seated chair workouts, for beginners and older adults, with a streak and a fox companion that grows as you train. Free to start.
 
 ## Guides
 
