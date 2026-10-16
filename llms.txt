@@ -18,15 +18,15 @@ Facts checked on 2026-10-16:
 
 ## Home
 
-- [FitStreak: the gym pet that texts you about your streak](https://isi1314.github.io/fitstreak-legal/index.md): FitStreak is an iPhone workout app with 5-minute daily routines, including seated chair workouts, for beginners and older adults, with a streak and a fox companion that grows as you train. Free to start.
+- [FitStreak: the gym pet that texts you about your streak](https://fitstreakapp.com/index.md): FitStreak is an iPhone workout app with 5-minute daily routines, including seated chair workouts, for beginners and older adults, with a streak and a fox companion that grows as you train. Free to start.
 
 ## Guides
 
-- [Chair workouts for beginners: four seated routines to start today](https://isi1314.github.io/fitstreak-legal/guides/chair-workouts-for-beginners.md): Four short seated routines, about 5 minutes each, with every move written out. No floor work, no jumping, just a sturdy chair.
-- [How to keep a workout streak past week two](https://isi1314.github.io/fitstreak-legal/guides/how-to-keep-a-workout-streak.md): Practical ways to keep a workout habit going: make the minimum tiny, plan rest on purpose, and decide in advance what happens when you miss a day.
-- [Low-impact workouts at home: no jumping, no floor](https://isi1314.github.io/fitstreak-legal/guides/low-impact-workouts-at-home.md): What low impact really means, the moves that do the work without jumping or getting on the floor, and a sample week for beginners.
+- [Chair workouts for beginners: four seated routines to start today](https://fitstreakapp.com/guides/chair-workouts-for-beginners.md): Four short seated routines, about 5 minutes each, with every move written out. No floor work, no jumping, just a sturdy chair.
+- [How to keep a workout streak past week two](https://fitstreakapp.com/guides/how-to-keep-a-workout-streak.md): Practical ways to keep a workout habit going: make the minimum tiny, plan rest on purpose, and decide in advance what happens when you miss a day.
+- [Low-impact workouts at home: no jumping, no floor](https://fitstreakapp.com/guides/low-impact-workouts-at-home.md): What low impact really means, the moves that do the work without jumping or getting on the floor, and a sample week for beginners.
 
 ## Legal
 
-- [Privacy policy](https://isi1314.github.io/fitstreak-legal/privacy.html)
-- [Terms of use](https://isi1314.github.io/fitstreak-legal/terms.html)
+- [Privacy policy](https://fitstreakapp.com/privacy.html)
+- [Terms of use](https://fitstreakapp.com/terms.html)
