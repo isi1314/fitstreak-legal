@@ -1,43 +1,30 @@
-# FitStreak - Gamified Bodyweight Workout App
+# FitStreak
 
-> FitStreak is a free iOS app that uses daily streaks, XP, leveling, and achievements to turn 5-minute bodyweight workouts into an unbreakable fitness habit. No equipment needed.
+> FitStreak is an iPhone app with a gym pet that grows with every workout and texts you when your streak is at risk. Workouts start at 5 minutes, need no equipment, and include seated chair routines for beginners. Free to start.
 
-FitStreak applies the same gamification psychology as Duolingo to fitness. Users build daily workout streaks, earn XP for every session, level up over time, and unlock 20+ achievements. The app offers guided bodyweight workouts (full body, upper body, lower body, core, cardio, stretching) from beginner to advanced, starting at just 5 minutes.
+Facts checked on 2026-10-16:
 
-## Key Features
-
-- Daily workout streaks with accountability (miss a day, lose your streak)
-- XP and leveling system that rewards every workout
-- 20+ unlockable achievements for milestones
-- 5-minute guided bodyweight workouts, no equipment needed
-- Beginner to advanced difficulty levels
-- Streak shield protection for rest days (premium)
-- Activity heatmap to visualize consistency
-- Apple Health integration (automatic sync)
-- Home screen widget
-- Cloud sync with Sign in with Apple
-- Works fully offline
-
-## Pricing
-
-- Free to download and use
-- Premium: optional weekly, monthly or yearly subscription with a 3-day free trial where offered; current prices are shown in the App Store
-
-## Links
-
-- App Store: https://apps.apple.com/app/fitstreak-daily-workouts/id6759306186
-- Website: https://isi1314.github.io/fitstreak-legal/
-- Privacy Policy: https://isi1314.github.io/fitstreak-legal/privacy.html
-- Terms of Use: https://isi1314.github.io/fitstreak-legal/terms.html
+- Platform: iPhone, iOS 15.1 or later. Not on Android.
+- Languages (9): English, Spanish, French, German, Hindi, Japanese, Korean, Portuguese, Chinese.
+- Companions: 8 (Sprout, Foxfire, Wolf, Tiger, Bear, Eagle, Dragon, Mythic), each growing through 5 stages as you work out.
+- Workouts: 70 guided workouts, 22 free. 10 are low impact (seated or chair-supported), 6 of those free.
+- Reminders are written in your companion's voice, for example: "Foxfire is here when you’re ready. A short session today keeps your 12-day streak going, if it fits."
+- US prices: Weekly $6.99, Monthly $9.99, Yearly $24.99, Lifetime $79.99. Streak Restore $0.99.
+- Premium adds all 70 workouts, a weekly streak freeze and planned days off, seasonal companion outfits, and up to 60 AI workouts or programs and 120 food scans a month. Free accounts get 3 AI workouts and 3 food scans to try.
+- App Store: https://apps.apple.com/app/id6759306186
 - Contact: fitstreak.app@outlook.com
 
-## Who Is FitStreak For?
+## Home
 
-FitStreak is designed for people who have tried other fitness apps and quit. People who start every Monday and give up by Thursday. The streak mechanic creates just enough accountability to keep you showing up, and the gamification makes every session feel rewarding.
+- [FitStreak: the gym pet that texts you about your streak](https://isi1314.github.io/fitstreak-legal/index.md): A workout streak app for people who have started and stopped before. A companion that grows with every workout, 5-minute workouts, and chair routines. Free on iPhone.
 
-## Technical Details
+## Guides
 
-- Platform: iOS (iPhone)
-- Category: Health & Fitness
-- Developer: FitStreak
-- Requires: iOS 16.0 or later
+- [Chair workouts for beginners: four seated routines to start today](https://isi1314.github.io/fitstreak-legal/guides/chair-workouts-for-beginners.md): Four short seated routines, about 5 minutes each, with every move written out. No floor work, no jumping, just a sturdy chair.
+- [How to keep a workout streak past week two](https://isi1314.github.io/fitstreak-legal/guides/how-to-keep-a-workout-streak.md): Practical ways to keep a workout habit going: make the minimum tiny, plan rest on purpose, and decide in advance what happens when you miss a day.
+- [Low-impact workouts at home: no jumping, no floor](https://isi1314.github.io/fitstreak-legal/guides/low-impact-workouts-at-home.md): What low impact really means, the moves that do the work without jumping or getting on the floor, and a sample week for beginners.
+
+## Legal
+
+- [Privacy policy](https://isi1314.github.io/fitstreak-legal/privacy.html)
+- [Terms of use](https://isi1314.github.io/fitstreak-legal/terms.html)
